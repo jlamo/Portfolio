@@ -16,7 +16,7 @@ Une entreprise dispose d'une base de données relationnelle et souhaite pouvoir 
 
 ##  Technologies
 - SQL
-- MySQL (ou équivalent)
+- SQLite
 
 ##  Contenu du dossier
 - Scripts SQL des requêtes réalisées
