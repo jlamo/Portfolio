@@ -1,4 +1,4 @@
-🎯 Data Analyst | Python • SQL • Power BI • Excel
+Data Analyst | Python • SQL • Power BI • Excel
 
 Bienvenue sur mon portfolio GitHub !
 
@@ -6,16 +6,14 @@ Je suis passionné par l'analyse de données et la transformation des données e
 
 Mon objectif est d'aider les entreprises à prendre des décisions grâce aux données en combinant analyse, visualisation et storytelling.
 
-🚀 Compétences
+Compétences
 Analyse de données
-Analyse exploratoire (EDA)
 Nettoyage et préparation des données
 Statistiques descriptives
 Tests statistiques
 Langages
 Python
 SQL
-R (bases)
 Bibliothèques Python
 Pandas
 NumPy
