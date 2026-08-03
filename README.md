@@ -1,32 +1,50 @@
-Data Analyst | Python • SQL • Power BI • Excel
+#  Bienvenue sur mon Portfolio Business Intelligence
 
-Bienvenue sur mon portfolio GitHub !
+##  À propos
 
-Je suis passionné par l'analyse de données et la transformation des données en informations exploitables. Ce dépôt regroupe les projets réalisés durant ma formation Data Analyst OpenClassrooms ainsi que mes projets personnels.
+Bienvenue sur mon portfolio GitHub. Vous y retrouverez l'ensemble des projets réalisés durant ma formation **Business Intelligence Analyst** chez **OpenClassrooms**.
 
-Mon objectif est d'aider les entreprises à prendre des décisions grâce aux données en combinant analyse, visualisation et storytelling.
+Chaque projet illustre une compétence spécifique du métier : analyse de données, visualisation, automatisation, modélisation, création de tableaux de bord et restitution des résultats. Ce dépôt me permet de suivre ma progression et de présenter mes réalisations de manière structurée.
 
-Compétences
-Analyse de données
-Nettoyage et préparation des données
-Statistiques descriptives
-Tests statistiques
-Langages
-Python
-SQL
-Bibliothèques Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Visualisation
-Power BI
-Tableau de bord interactif
-Matplotlib
-Seaborn
-Outils
-Git / GitHub
-Jupyter Notebook
-VS Code
-Excel
+---
+
+
+##  Technologies et outils
+
+- Microsoft Excel
+- Power BI
+- SQL
+- Python
+- Jupyter Notebook
+- Git & GitHub
+- Notion
+
+---
+
+##  Formation
+
+**Business Intelligence Analyst**  
+OpenClassrooms
+
+Cette formation couvre l'ensemble du cycle de valorisation de la donnée :
+- Collecte et préparation des données
+- Analyse et exploration
+- Modélisation
+- Création de tableaux de bord
+- Restitution des indicateurs décisionnels
+
+---
+
+##  Objectif
+
+Construire un portfolio démontrant mes compétences en Business Intelligence à travers des projets concrets répondant à des problématiques métiers réelles.
+
+---
+
+##  Contact
+
+- GitHub : https://github.com/jlamo
+- LinkedIn : https://www.linkedin.com/in/jeffrey-lamowaltay-a1795759/
+---
+
+⭐ N'hésitez pas à parcourir les différents projets pour découvrir mon évolution tout au long de la formation.
