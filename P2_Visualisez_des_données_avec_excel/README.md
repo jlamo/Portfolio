@@ -22,5 +22,5 @@ Une entreprise souhaite exploiter ses données brutes pour en tirer des visualis
 - Fichier Excel du projet (données + visualisations)
 - Tableau de bord final
 
-##  Résultat
+##  ✅ Résultat
 Un tableau de bord Excel clair, permettant de visualiser rapidement les indicateurs clés à destination d'un public non technique.
