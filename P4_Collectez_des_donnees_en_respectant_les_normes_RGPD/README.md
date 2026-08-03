@@ -15,7 +15,7 @@ Dans le cadre de la collecte et de l'exploitation de données personnelles, une 
 - Documentation d'une démarche de conformité (registre de traitement)
 
 ##  Outils
-- Python et/ou Excel (selon la partie du projet)
+- Power BI (Power Query)
 - Documentation RGPD
 
 ##  Contenu du dossier
